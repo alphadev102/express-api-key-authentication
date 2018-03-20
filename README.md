@@ -5,3 +5,5 @@ This example shows a simple way to secure an API, you a single API Key, which mu
 In this example, the AJAX code retrieves the token from local storage. In the same way, if you wanted an easy way to add Admin access to your API, you could manually add this token to the local storage on your browser, then only you would be able to access the Admin features of the API.
 
 You can use something like: http://randomkeygen.com/ to generate a random key.
+Contribution: 2018-03-20 20:00
+
