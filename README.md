@@ -7,3 +7,5 @@ In this example, the AJAX code retrieves the token from local storage. In the sa
 You can use something like: http://randomkeygen.com/ to generate a random key.
 Contribution: 2018-03-20 20:00
 
+Contribution: 2018-07-16 20:00
+
